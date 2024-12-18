@@ -65,7 +65,6 @@ class HomeView extends StatelessWidget {
 
 class _HomeTabButton extends StatelessWidget {
   const _HomeTabButton({
-    super.key,
     required this.groupValue,
     required this.value,
     required this.icon,

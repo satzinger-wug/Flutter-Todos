@@ -2,7 +2,6 @@
 import 'package:local_storage_todos_api/local_storage_todos_api.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:test/test.dart';
-import 'package:todos_api/todos_api.dart';
 
 void main() {
   group('TodosApi', () {
